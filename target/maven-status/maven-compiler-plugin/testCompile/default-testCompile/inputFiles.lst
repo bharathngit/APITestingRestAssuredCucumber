@@ -1,0 +1,12 @@
+/Users/bharath/eclipse-workspace/api-workspace/RestAssuredPractice/src/test/java/com/cucumberwithrestassured/datamodels/jsonserver/DbJsonServerGetResponseDataModel.java
+/Users/bharath/eclipse-workspace/api-workspace/RestAssuredPractice/src/test/java/com/cucumberwithrestassured/datamodels/jsonserver/objectmodels/CommentsGetResponseDataModel.java
+/Users/bharath/eclipse-workspace/api-workspace/RestAssuredPractice/src/test/java/com/cucumberwithrestassured/datamodels/jsonserver/objectmodels/posts/PostsGetResponseDataModel.java
+/Users/bharath/eclipse-workspace/api-workspace/RestAssuredPractice/src/test/java/com/cucumberwithrestassured/datamodels/jsonserver/objectmodels/posts/PostsPostResponseDataModel.java
+/Users/bharath/eclipse-workspace/api-workspace/RestAssuredPractice/src/test/java/com/cucumberwithrestassured/requestspecification/PostsRequestSpecValidations.java
+/Users/bharath/eclipse-workspace/api-workspace/RestAssuredPractice/src/test/java/com/cucumberwithrestassured/datamodels/jsonserver/objectmodels/posts/PostsPostRequestDataModel.java
+/Users/bharath/eclipse-workspace/api-workspace/RestAssuredPractice/src/test/java/com/cucumberwithrestassured/datamodels/jsonserver/objectmodels/posts/PostsPutResponseData.java
+/Users/bharath/eclipse-workspace/api-workspace/RestAssuredPractice/src/test/java/com/cucumberwithrestassured/stepdefinitions/PostsStepDefinitions.java
+/Users/bharath/eclipse-workspace/api-workspace/RestAssuredPractice/src/test/java/com/cucumberwithrestassured/stepdefinitions/StepDefinitionClass1.java
+/Users/bharath/eclipse-workspace/api-workspace/RestAssuredPractice/src/test/java/com/cucumberwithrestassured/responsespecifications/PostsResponseStatusCodesValidations.java
+/Users/bharath/eclipse-workspace/api-workspace/RestAssuredPractice/src/test/java/com/cucumberwithrestassured/datamodels/jsonserver/objectmodels/ProfileGetResponseDataModel.java
+/Users/bharath/eclipse-workspace/api-workspace/RestAssuredPractice/src/test/java/com/cucumberwithrestassured/datamodels/jsonserver/objectmodels/posts/PostsPutRequestData.java
